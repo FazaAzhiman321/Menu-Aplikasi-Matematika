@@ -1,2 +1,2 @@
 # Menu-Aplikasi-Matematika
-Java, Menu aplikasi matematika
+Berisi codingan Java "Menu Aplikasi Matematika", dibuat di Netbeans 8.2
